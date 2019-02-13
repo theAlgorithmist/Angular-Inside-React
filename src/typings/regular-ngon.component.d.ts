@@ -15,7 +15,7 @@
  */
 
 /**
- * Typings file for the (Angular) Regular Ngon Component
+ * (minimal) Typings file for the (Angular) Regular Ngon Component
  *
  * @author Jim Armstrong (www.algorithmist.net)
  *

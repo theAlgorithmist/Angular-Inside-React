@@ -15,7 +15,7 @@
 */
 
 /**
- * Typings file for the Regular Ngon (computational) class
+ * (minimal) Typings file for the Regular Ngon (computational) class
  *
  * @author Jim Armstrong (www.algorithmist.net)
  *

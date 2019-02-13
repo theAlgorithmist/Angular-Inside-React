@@ -15,7 +15,7 @@
  */
 
 /**
- * Typings file for the ADT Rectangle Selector
+ * (minimal) Typings file for the ADT Rectangle Selector
  *
  * @author Jim Armstrong (www.algorithmist.net)
  *

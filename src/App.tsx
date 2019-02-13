@@ -37,6 +37,7 @@ declare global {
 import React from 'react';
 import './App.css';
 
+// properties and state
 interface IProps
 {
   width: number;
